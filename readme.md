@@ -1,0 +1,1 @@
+The purpose of this project is to use the .push method and a for...of  loop.
